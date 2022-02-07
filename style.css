@@ -9,6 +9,8 @@ body {
   width: 1200;
   background-color: white;
   margin: 40px;
+  box-shadow:  15px 12px 25px rgb(151, 151, 151);;
+  
     
 }
 
@@ -71,12 +73,12 @@ body {
     font-weight: 700;
 }
 
-.my-project-link{
+.my-project-link {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #353535;
 }
 
 .my-project-text{
@@ -216,7 +218,7 @@ body {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #565E6A;
+    color: #c5c5c5;
 
 }
 
